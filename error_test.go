@@ -7,7 +7,7 @@ package btcchain_test
 import (
 	"testing"
 
-	"github.com/btcsuite/btcchain"
+	"github.com/monetas/btcchain"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.
